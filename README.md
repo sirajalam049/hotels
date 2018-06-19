@@ -9,13 +9,17 @@
 6. While checking a hotel information, the application automatically identifies the location of the hotel and recommend the user similar hotels in the same location/city.
 7. Each hotel contains total number of visitors ever visited the hotel. If a usr revisit the same hotel after 7 days, so he/she will be considered as a new visitor.
 <hr>
+
 <b>Installation</b>
+
 1. Copy the whole directory into your server/virtual-server root directory.
 2. Upload the .sql file into your MySQL database.
 3. Edit /includes/conn.php and add MySQL username and password into the file.
 4. Upload the json file into the http://hostname/admin page.
 5. Access the application at http://hostname/
+
 <hr>
+
 <b>Limitations</b>
 
 This project has some limitations which are ignored due to the deadline of the project and those flaws do not affect the functioning of the project.
