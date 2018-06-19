@@ -1,6 +1,6 @@
-Hotel Booking and Recommendation System
+# Hotel Booking and Recommendation System
 
-# Features.
+* Features.
 1. It inputs a json file with predefined data fields and feed them into the database.
 2. Users can book a hotel in this application. But first they have to sign up or login to make a booking.
 3. Users can also save the incomplete booking of Hotel and see them in their Draft space and complete thie booking process.
