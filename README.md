@@ -25,5 +25,5 @@
 This project has some limitations which are ignored due to the deadline of the project and those flaws do not affect the functioning of the project.
 1. There's no authentication system is made for the admin to upload json file.
 2. There's no validation is done on the file uploaded.
-3. There's no delete option of the user records - manual drafts and booking history
+3. There's no manual delete option of the user records - drafts and booking history
 4. The application is only tested on Google Chrome Version 67.0.3396.87 and not on any other browser.
