@@ -7,7 +7,7 @@
 4. When a user complete a previously saved incomplete booking from draft, so it autodeletes from the drafts.
 5. User can see all his/her previous booking along with the booking date and all the information about the booking.
 6. While checking a hotel information, the application automatically identifies the location of the hotel and recommend the user similar hotels in the same location/city.
-7. Each hotel contains total number of visitors ever visited the hotel. If a usr revisit the same hotel after 7 days, so he/she will be considered as a new visitor.
+7. Each hotel contains total number of visitors ever visited the hotel. If a user revisit the same hotel after 7 days, so he/she will be considered as a new visitor.
 <hr>
 
 <b>Installation</b>
